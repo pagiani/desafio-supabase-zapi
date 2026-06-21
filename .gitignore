@@ -1,0 +1,17 @@
+# Variáveis de ambiente (contém credenciais reais — NUNCA commitar)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+venv/
+.venv/
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
